@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Navigation",
+    "\\src\\components\\Navigation\\NavigationItems",
+    "\\src\\components\\Order",
+    "\\src\\components\\OrderList",
+    "\\src\\containers",
+    "\\src\\containers\\BurgerBuilder",
+    "\\src\\containers\\Orders"
+  ],
+  "SelectedNode": "\\src\\components\\OrderList\\Order.js",
+  "PreviewInSolutionExplorer": false
+}
