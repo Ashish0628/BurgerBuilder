@@ -7,7 +7,7 @@ import Ordersummary from '../../components/Burger/OrderSummary/OrderSummary';
 import Axios from '../../axios-order';
 import Spinner from '../../components/UI/Loading/Loading';
 const IngredientPrice = {
-    salad: 30,
+    salad: 40,
     chicken: 20,
     meat: 20,
     cheese: 20
@@ -18,7 +18,7 @@ export default class BurgerBuilder extends Component {
     state = {
         ingredients: null,
            
-        totalPrice: 10,
+        totalPrice: 20,
         purchased: true,
         ordered: false,
         spinner: false
