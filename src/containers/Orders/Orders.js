@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Order from '../../components/OrderList/Order';
 import Axios from '../../axios-order';
-import Spinner from '../../components/UI/Loading/Loading';
+
 
 class Orders extends Component{
 

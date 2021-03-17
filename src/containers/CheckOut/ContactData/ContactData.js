@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Button from '../../../components/UI/Button/Button';
-import classes from './ContactData.css';
 import Axios from '../../../axios-order';
 import { Redirect } from 'react-router-dom';
 import Spinner from '../../../components/UI/Loading/Loading';
