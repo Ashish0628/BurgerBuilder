@@ -18,7 +18,7 @@ export default class BurgerBuilder extends Component {
     state = {
         ingredients: null,
            
-        totalPrice: 20,
+        totalPrice: 10,
         purchased: true,
         ordered: false,
         spinner: false
