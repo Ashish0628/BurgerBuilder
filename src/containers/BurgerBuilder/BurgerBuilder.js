@@ -7,7 +7,7 @@ import Ordersummary from '../../components/Burger/OrderSummary/OrderSummary';
 import Axios from '../../axios-order';
 import Spinner from '../../components/UI/Loading/Loading';
 const IngredientPrice = {
-    salad: 20,
+    salad: 30,
     chicken: 20,
     meat: 20,
     cheese: 20
