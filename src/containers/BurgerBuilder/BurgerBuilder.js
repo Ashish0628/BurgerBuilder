@@ -8,7 +8,7 @@ import Axios from '../../axios-order';
 import Spinner from '../../components/UI/Loading/Loading';
 const IngredientPrice = {
     salad: 20,
-    chicken: 50,
+    chicken: 20,
     meat: 20,
     cheese: 20
 }; 
